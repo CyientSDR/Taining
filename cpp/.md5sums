@@ -1,0 +1,10 @@
+65590b1480463a6c988a310ff403808c  main.cpp
+8bfcd22353c3a57fee561ad86ee2a56b  reconf
+712849ee583afb1b0950e57e15c511c6  Training_base.cpp
+d5ab17f0b252152e3f1a04f3b90a62fe  Training.cpp
+f2e61e899dfd5c9c26acfae76cd79d27  Training.h
+210d4f3ad6980591547bd74659f72559  configure.ac
+3e6484dfdd43fa00b300b20aaa267a01  Makefile.am
+05e5ce0c45d8bb56bfbe2c48f709f43f  Makefile.am.ide
+0634bde8acc34f271a95edcd95f7d1a1  Training_base.h
+2b2faa5cfc83438427491f4be5d6ee59  build.sh
